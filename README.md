@@ -1,4 +1,4 @@
-# **Reliable Softwrae Decomposition SIG**
+# **Reliable Software Decomposition SIG**
 
 The Reliable Software Decomposition SIG is a Special Interest Group at
 the the sandbox stage. The SIG reports to the OpenSSF Security Tooling
